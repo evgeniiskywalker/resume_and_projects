@@ -7,10 +7,6 @@
   <img src="https://img.shields.io/github/last-commit/shukkkur/Predict-Species-from-Images.svg"></a>
 </p>
 
-<!-- ![Forks](https://img.shields.io/github/forks/shukkkur/Predict-Species-from-Images.svg)
-![Stars](https://img.shields.io/github/stars/shukkkur/Predict-Species-from-Images.svg)
-![Watchers](https://img.shields.io/github/watchers/shukkkur/Predict-Species-from-Images.svg)
-![Last Commit](https://img.shields.io/github/last-commit/shukkkur/Predict-Species-from-Images.svg)  -->
 
 
 <p>Can a machine identify a bee as a honey bee or a bumble bee?</p>
