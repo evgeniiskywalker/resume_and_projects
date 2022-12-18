@@ -1,11 +1,4 @@
-<h2 align='center'>Naïve Bees: <br>Image Loading and Processing<br>Predicting Species from Images</h2>
-<p align='center'><img src='https://www.dadant.com/wp-content/uploads/2017/12/ABJ-Extra-December12-256x256.jpg'></p>
-<p align="center">
-  <img src="https://img.shields.io/github/forks/shukkkur/Predict-Species-from-Images.svg"></a>
-  <img src="https://img.shields.io/github/stars/shukkkur/Predict-Species-from-Images.svg"></a>
-  <img src="https://img.shields.io/github/watchers/shukkkur/Predict-Species-from-Images.svg"></a>
-  <img src="https://img.shields.io/github/last-commit/shukkkur/Predict-Species-from-Images.svg"></a>
-</p>
+
 
 
 
